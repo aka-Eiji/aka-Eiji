@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!👋
+Welcome to my GitHub!
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jkosiara)](https://github.com/JaeSeoKim/badge42)
 <!--
 **aka-Eiji/aka-Eiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
